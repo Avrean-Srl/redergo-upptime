@@ -3,7 +3,7 @@ owner: Avrean-Srl # Your GitHub organization or username, where this repository 
 repo: redergo-upptime # The name of this repository
 
 sites:
-  - name: Google
+  - name: GoogleAbc
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
