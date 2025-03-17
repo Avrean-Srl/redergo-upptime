@@ -9,11 +9,10 @@ sites:
     url: https://consorziovado.com
   - name: Sasp
     url: https://www.arrampicata.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 4foodies
+    url: http://4foodies.it
+  - name: Hexaquotes
+    url: https://hexaquotes.avrean.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
