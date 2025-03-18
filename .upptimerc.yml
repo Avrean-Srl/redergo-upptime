@@ -13,7 +13,33 @@ sites:
     url: http://4foodies.it
   - name: Hexaquotes
     url: https://hexaquotes.avrean.net
-
+  - name: Consorzio Vadò (duplicato corretto)
+    url: https://consorziovado.com
+  - name: 4foodies (corretto)
+    url: https://www.4foodies.it
+  - name: Algo Group
+    url: https://www.algogroup.net
+  - name: Alice Scagliola Nutrizionista
+    url: https://alicescagliolanutrizionista.com
+  - name: Images Algo
+    url: https://images.algo.it
+  - name: Foto Attualità Cesni
+    url: https://fotoattualitacesni.com
+  - name: Blugestiam
+    url: https://blugestiam.com
+  - name: Online Service
+    url: https://www.onlineservice.it
+  - name: Photop
+    url: https://photop.it
+  - name: Dropper AI
+    url: https://www.dropper.ai
+  - name: Dropper AI Dashboard
+    url: https://dashboard.dropper.ai/login
+  - name: Orologi Aeronautica
+    url: https://orologiaeronautica.it
+  - name: Honpe
+    url: https://www.honpe.it
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
