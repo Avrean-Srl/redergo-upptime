@@ -17,6 +17,8 @@ sites:
     url: https://aupetitbonheur.org
   - name: Blugestiam
     url: https://blugestiam.com
+    method: GET
+    ignoreSSL: true
   - name: Bursi
     url: https://bursi.it
   - name: Capone Costruzioni
@@ -37,6 +39,8 @@ sites:
     url: https://galievr.it
   - name: Grande Marvin
     url: https://grandemarvin.com
+    method: GET
+    ignoreSSL: true
   - name: Hexaquotes
     url: https://hexaquotes.avrean.net
   - name: Honpe
@@ -45,6 +49,8 @@ sites:
     url: https://images.algo.it
   - name: Obertosrl
     url: https://obertosrl.it
+    method: GET
+    ignoreSSL: true
   - name: Online Service
     url: https://www.onlineservice.it
   - name: Orologi Aeronautica
@@ -57,12 +63,15 @@ sites:
     url: https://www.quercettistore.com/it
   - name: Rekupero
     url: https://www.rekupero.it
+    method: GET
+    ignoreSSL: true
   - name: Riadk
     url: https://riadk.com
   - name: Sasp
     url: https://www.arrampicata.com
   - name: Top Gear Italia
     url: https://topgearitalia.com
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
