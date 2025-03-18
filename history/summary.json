@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blugestiam.com.ico",
     "slug": "blugestiam",
     "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
+    "uptime": "2.40%",
+    "uptimeDay": "2.40%",
+    "uptimeWeek": "2.40%",
+    "uptimeMonth": "2.40%",
+    "uptimeYear": "2.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 1
     }
   },
   {
