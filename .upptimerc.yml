@@ -3,42 +3,66 @@ owner: Avrean-Srl # Your GitHub organization or username, where this repository 
 repo: redergo-upptime # The name of this repository
 
 sites:
-  - name: Redergo
-    url: https://redergo.com
-  - name: Consorzio Vadò
-    url: https://consorziovado.com
-  - name: Sasp
-    url: https://www.arrampicata.com
   - name: 4foodies
-    url: http://4foodies.it
-  - name: Hexaquotes
-    url: https://hexaquotes.avrean.net
-  - name: Consorzio Vadò (duplicato corretto)
-    url: https://consorziovado.com
-  - name: 4foodies (corretto)
     url: https://www.4foodies.it
-  - name: Algo Group
-    url: https://www.algogroup.net
+  - name: Add Skills
+    url: https://addskills.it
   - name: Alice Scagliola Nutrizionista
     url: https://alicescagliolanutrizionista.com
-  - name: Images Algo
-    url: https://images.algo.it
-  - name: Foto Attualità Cesni
-    url: https://fotoattualitacesni.com
+  - name: Algo Group
+    url: https://www.algogroup.net
+  - name: Arkema
+    url: https://www.arkema.it
+  - name: Au Petit Bonheur
+    url: https://aupetitbonheur.org
   - name: Blugestiam
     url: https://blugestiam.com
-  - name: Online Service
-    url: https://www.onlineservice.it
-  - name: Photop
-    url: https://photop.it
+  - name: Bursi
+    url: https://bursi.it
+  - name: Capone Costruzioni
+    url: https://caponecostruzioni.com
+  - name: Consorzio Terna
+    url: https://consorzioterna.it
+  - name: Consorzio Vadò
+    url: https://consorziovado.com
   - name: Dropper AI
     url: https://www.dropper.ai
   - name: Dropper AI Dashboard
     url: https://dashboard.dropper.ai/login
-  - name: Orologi Aeronautica
-    url: https://orologiaeronautica.it
+  - name: Enercade
+    url: https://enercade.com
+  - name: Foto Attualità Cesni
+    url: https://fotoattualitacesni.com
+  - name: Galievr
+    url: https://galievr.it
+  - name: Grande Marvin
+    url: https://grandemarvin.com
+  - name: Hexaquotes
+    url: https://hexaquotes.avrean.net
   - name: Honpe
     url: https://www.honpe.it
+  - name: Images Algo
+    url: https://images.algo.it
+  - name: Obertosrl
+    url: https://obertosrl.it
+  - name: Online Service
+    url: https://www.onlineservice.it
+  - name: Orologi Aeronautica
+    url: https://orologiaeronautica.it
+  - name: Photop
+    url: https://photop.it
+  - name: Pixlex
+    url: https://pixlex.it
+  - name: Quercetti Store
+    url: https://www.quercettistore.com/it
+  - name: Rekupero
+    url: https://www.rekupero.it
+  - name: Riadk
+    url: https://riadk.com
+  - name: Sasp
+    url: https://www.arrampicata.com
+  - name: Top Gear Italia
+    url: https://topgearitalia.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
