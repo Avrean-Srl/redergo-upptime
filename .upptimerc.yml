@@ -17,12 +17,12 @@ sites:
     url: https://aupetitbonheur.org
   - name: Blugestiam
     url: https://blugestiam.com
-    check: { verifySsl: false }
+    __dangerous__insecure: true
   - name: Bursi
     url: https://bursi.it
   - name: Capone Costruzioni
     url: https://caponecostruzioni.com
-    check: { verifySsl: false }
+    __dangerous__insecure: true
   - name: Consorzio Terna
     url: https://consorzioterna.it
   - name: Consorzio Vadò
@@ -39,7 +39,7 @@ sites:
     url: https://galievr.it
   - name: Grande Marvin
     url: https://grandemarvin.com
-    check: { verifySsl: false }
+    __dangerous__insecure: true
   - name: Hexaquotes
     url: https://hexaquotes.avrean.net
   - name: Honpe
@@ -48,7 +48,7 @@ sites:
     url: https://images.algo.it
   - name: Obertosrl
     url: https://obertosrl.it
-    check: { verifySsl: false }
+    __dangerous__insecure: true
   - name: Online Service
     url: https://www.onlineservice.it
   - name: Orologi Aeronautica
@@ -61,7 +61,7 @@ sites:
     url: https://www.quercettistore.com/it
   - name: Rekupero
     url: https://www.rekupero.it
-    check: { verifySsl: false }
+    __dangerous__insecure: true
   - name: Riadk
     url: https://riadk.com
   - name: Sasp
