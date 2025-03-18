@@ -31,15 +31,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-
-      - name: Check endpoint status (ignore SSL for specific sites)
-        run: |
-          curl -fsSL --insecure https://blugestiam.com || echo "Ignoring SSL error: blugestiam.com"
-          curl -fsSL --insecure https://www.rekupero.it || echo "Ignoring SSL error: rekupero.it"
-          curl -fsSL --insecure https://grandemarvin.com || echo "Ignoring SSL error: grandemarvin.com"
-          curl -fsSL --insecure https://obertosrl.it || echo "Ignoring SSL error: obertosrl.it"
-
-      - name: Run Upptime monitoring
+      - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.39.0
         with:
           command: "update"
