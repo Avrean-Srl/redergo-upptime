@@ -79,6 +79,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /redergo-upptime
+  theme: night
   logoUrl: https://www.redergo.com/img/logo-white.svg
   name: Redergo-Status
   introTitle: "**Redergo** Controllo status siti web."
