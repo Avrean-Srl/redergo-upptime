@@ -69,6 +69,8 @@ sites:
     url: https://www.arrampicata.com
   - name: Top Gear Italia
     url: https://topgearitalia.com
+  - name: IFrighi
+    url: https://www.ifrighi.it
 
 
     
@@ -77,7 +79,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /redergo-upptime
-  logoUrl: https://www.redergo.com/img/logo-black.svg
+  logoUrl: https://www.redergo.com/img/logo-white.svg
   name: Redergo-Status
   introTitle: "**Redergo** Controllo status siti web."
   introMessage: I controlli vengono effettuati ogni 5 minuti. 
