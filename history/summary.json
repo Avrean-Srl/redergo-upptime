@@ -40,19 +40,19 @@
     "url": "https://alicescagliolanutrizionista.com",
     "icon": "https://icons.duckduckgo.com/ip3/alicescagliolanutrizionista.com.ico",
     "slug": "alice-scagliola-nutrizionista",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 199,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 197,
     "timeDay": 127,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-03-21": 15
+      "2025-03-21": 22
     }
   },
   {
