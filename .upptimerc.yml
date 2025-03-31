@@ -7,8 +7,6 @@ sites:
     url: https://www.4foodies.it
   - name: Add Skills
     url: https://addskills.it
-  - name: Alice Scagliola Nutrizionista
-    url: https://alicescagliolanutrizionista.com
   - name: Algo Group
     url: https://www.algogroup.net
   - name: Arkema
@@ -49,8 +47,8 @@ sites:
   - name: Obertosrl
     url: https://obertosrl.it
     __dangerous__insecure: true
-  - name: Online Service
-    url: https://www.onlineservice.it
+  - name: Oneline Service
+    url: https://www.onelineservice.it
   - name: Orologi Aeronautica
     url: https://orologiaeronautica.it
   - name: Photop
