@@ -22,19 +22,19 @@
     "url": "https://addskills.it",
     "icon": "https://icons.duckduckgo.com/ip3/addskills.it.ico",
     "slug": "add-skills",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2603,
-    "timeDay": 1937,
-    "timeWeek": 2426,
-    "timeMonth": 2603,
-    "timeYear": 2603,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2613,
+    "timeDay": 2274,
+    "timeWeek": 2455,
+    "timeMonth": 2613,
+    "timeYear": 2613,
     "dailyMinutesDown": {
-      "2025-04-01": 0
+      "2025-04-01": 7
     }
   },
   {
