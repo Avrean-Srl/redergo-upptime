@@ -76,19 +76,19 @@
     "url": "https://aupetitbonheur.org",
     "icon": "https://icons.duckduckgo.com/ip3/aupetitbonheur.org.ico",
     "slug": "au-petit-bonheur",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 177,
-    "timeWeek": 265,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 328,
+    "timeDay": 171,
+    "timeWeek": 254,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-04-02": 0
+      "2025-04-02": 16
     }
   },
   {
