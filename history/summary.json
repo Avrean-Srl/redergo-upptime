@@ -4,18 +4,20 @@
     "url": "https://www.4foodies.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.4foodies.it.ico",
     "slug": "4foodies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 1415,
-    "timeWeek": 1157,
-    "timeMonth": 1219,
-    "timeYear": 1219,
-    "dailyMinutesDown": {}
+    "time": 1206,
+    "timeDay": 1112,
+    "timeWeek": 1104,
+    "timeMonth": 1206,
+    "timeYear": 1206,
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   },
   {
     "name": "Add Skills",
@@ -23,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/addskills.it.ico",
     "slug": "add-skills",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2602,
     "timeDay": 2543,
-    "timeWeek": 2467,
+    "timeWeek": 2496,
     "timeMonth": 2602,
     "timeYear": 2602,
-    "dailyMinutesDown": {
-      "2025-04-07": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Algo Group",
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 1319,
-    "timeWeek": 1139,
+    "timeWeek": 1154,
     "timeMonth": 1100,
     "timeYear": 1100,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 382,
-    "timeWeek": 591,
+    "timeWeek": 583,
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "99.94%",
     "time": 332,
     "timeDay": 380,
-    "timeWeek": 276,
+    "timeWeek": 282,
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -99,14 +99,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/blugestiam.com.ico",
     "slug": "blugestiam",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 360,
     "timeDay": 156,
-    "timeWeek": 367,
+    "timeWeek": 364,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 2336,
     "timeDay": 2106,
-    "timeWeek": 2473,
+    "timeWeek": 2394,
     "timeMonth": 2336,
     "timeYear": 2336,
     "dailyMinutesDown": {}
@@ -144,7 +144,7 @@
     "uptimeYear": "99.89%",
     "time": 321,
     "timeDay": 182,
-    "timeWeek": 360,
+    "timeWeek": 355,
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
@@ -164,7 +164,7 @@
     "uptimeYear": "99.88%",
     "time": 421,
     "timeDay": 607,
-    "timeWeek": 459,
+    "timeWeek": 473,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
@@ -202,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 1075,
-    "timeWeek": 843,
+    "timeWeek": 887,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 710,
-    "timeWeek": 635,
+    "timeWeek": 650,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "uptimeYear": "100.00%",
     "time": 325,
     "timeDay": 390,
-    "timeWeek": 343,
+    "timeWeek": 346,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {}
@@ -256,7 +256,7 @@
     "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 669,
-    "timeWeek": 678,
+    "timeWeek": 677,
     "timeMonth": 626,
     "timeYear": 626,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 716,
-    "timeWeek": 582,
+    "timeWeek": 590,
     "timeMonth": 583,
     "timeYear": 583,
     "dailyMinutesDown": {}
@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 354,
     "timeDay": 393,
-    "timeWeek": 257,
+    "timeWeek": 273,
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {}
@@ -310,7 +310,7 @@
     "uptimeYear": "100.00%",
     "time": 719,
     "timeDay": 751,
-    "timeWeek": 722,
+    "timeWeek": 727,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {}
@@ -328,7 +328,7 @@
     "uptimeYear": "100.00%",
     "time": 420,
     "timeDay": 319,
-    "timeWeek": 281,
+    "timeWeek": 278,
     "timeMonth": 420,
     "timeYear": 420,
     "dailyMinutesDown": {}
@@ -346,7 +346,7 @@
     "uptimeYear": "100.00%",
     "time": 1080,
     "timeDay": 1416,
-    "timeWeek": 1150,
+    "timeWeek": 1171,
     "timeMonth": 1080,
     "timeYear": 1080,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "99.60%",
     "time": 362,
     "timeDay": 308,
-    "timeWeek": 381,
+    "timeWeek": 375,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -385,7 +385,7 @@
     "uptimeYear": "100.00%",
     "time": 830,
     "timeDay": 859,
-    "timeWeek": 830,
+    "timeWeek": 837,
     "timeMonth": 830,
     "timeYear": 830,
     "dailyMinutesDown": {}
@@ -421,7 +421,7 @@
     "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 315,
-    "timeWeek": 469,
+    "timeWeek": 447,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {}
@@ -459,7 +459,7 @@
     "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 410,
-    "timeWeek": 313,
+    "timeWeek": 322,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {}
@@ -477,7 +477,7 @@
     "uptimeYear": "100.00%",
     "time": 483,
     "timeDay": 627,
-    "timeWeek": 488,
+    "timeWeek": 490,
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {}
@@ -495,7 +495,7 @@
     "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 416,
-    "timeWeek": 256,
+    "timeWeek": 257,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {}
@@ -531,7 +531,7 @@
     "uptimeYear": "99.88%",
     "time": 606,
     "timeDay": 672,
-    "timeWeek": 605,
+    "timeWeek": 606,
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
@@ -551,7 +551,7 @@
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 232,
-    "timeWeek": 206,
+    "timeWeek": 201,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {}
