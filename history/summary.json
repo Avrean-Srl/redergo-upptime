@@ -24,9 +24,9 @@
     "url": "https://addskills.it",
     "icon": "https://icons.duckduckgo.com/ip3/addskills.it.ico",
     "slug": "add-skills",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 2421,
     "timeMonth": 2583,
     "timeYear": 2583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-09": 0
+    }
   },
   {
     "name": "Algo Group",
@@ -360,12 +362,12 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
     "time": 365,
     "timeDay": 367,
-    "timeWeek": 364,
+    "timeWeek": 367,
     "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -525,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/topgearitalia.com.ico",
     "slug": "top-gear-italia",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 608,
     "timeDay": 508,
     "timeWeek": 638,
