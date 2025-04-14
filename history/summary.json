@@ -24,9 +24,9 @@
     "url": "https://addskills.it",
     "icon": "https://icons.duckduckgo.com/ip3/addskills.it.ico",
     "slug": "add-skills",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 2816,
     "timeMonth": 2641,
     "timeYear": 2641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   },
   {
     "name": "Algo Group",
@@ -137,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/caponecostruzioni.com.ico",
     "slug": "capone-costruzioni",
     "status": "up",
-    "uptime": "93.95%",
+    "uptime": "93.98%",
     "uptimeDay": "18.85%",
     "uptimeWeek": "77.28%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "93.95%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "93.98%",
     "time": 420,
     "timeDay": 674,
     "timeWeek": 584,
