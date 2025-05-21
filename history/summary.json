@@ -147,7 +147,7 @@
     "uptime": "93.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.05%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "93.62%",
     "time": 444,
     "timeDay": 357,
@@ -515,19 +515,19 @@
     "url": "https://riadk.com",
     "icon": "https://icons.duckduckgo.com/ip3/riadk.com.ico",
     "slug": "riadk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 152,
-    "timeWeek": 208,
-    "timeMonth": 210,
+    "timeDay": 169,
+    "timeWeek": 205,
+    "timeMonth": 209,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-05-21": 0
+      "2025-05-21": 9
     }
   },
   {
