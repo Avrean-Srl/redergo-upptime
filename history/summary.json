@@ -58,7 +58,7 @@
     "time": 1268,
     "timeDay": 990,
     "timeWeek": 1086,
-    "timeMonth": 1337,
+    "timeMonth": 1082,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2025-07-22": 16,
@@ -579,9 +579,9 @@
     "url": "https://www.ifrighi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ifrighi.it.ico",
     "slug": "i-frighi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -590,6 +590,8 @@
     "timeWeek": 254,
     "timeMonth": 237,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-26": 0
+    }
   }
 ]
