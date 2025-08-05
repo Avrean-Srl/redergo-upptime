@@ -148,11 +148,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/caponecostruzioni.com.ico",
     "slug": "capone-costruzioni",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.07%",
+    "uptimeYear": "97.08%",
     "time": 407,
     "timeDay": 340,
     "timeWeek": 267,
@@ -580,10 +580,10 @@
     "url": "https://www.ifrighi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ifrighi.it.ico",
     "slug": "i-frighi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -591,6 +591,8 @@
     "timeWeek": 181,
     "timeMonth": 236,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 1
+    }
   }
 ]
