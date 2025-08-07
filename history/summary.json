@@ -431,19 +431,19 @@
     "url": "https://orologiaeronautica.it",
     "icon": "https://icons.duckduckgo.com/ip3/orologiaeronautica.it.ico",
     "slug": "orologi-aeronautica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 700,
-    "timeWeek": 758,
-    "timeMonth": 729,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 706,
+    "timeDay": 796,
+    "timeWeek": 784,
+    "timeMonth": 737,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 16
     }
   },
   {
@@ -451,18 +451,20 @@
     "url": "https://photop.it",
     "icon": "https://icons.duckduckgo.com/ip3/photop.it.ico",
     "slug": "photop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
-    "timeDay": 404,
-    "timeWeek": 469,
-    "timeMonth": 400,
+    "timeDay": 529,
+    "timeWeek": 492,
+    "timeMonth": 408,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   },
   {
     "name": "Pixlex",
