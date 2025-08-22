@@ -586,19 +586,20 @@
     "url": "https://www.ifrighi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ifrighi.it.ico",
     "slug": "i-frighi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 185,
-    "timeWeek": 239,
-    "timeMonth": 233,
+    "timeDay": 191,
+    "timeWeek": 234,
+    "timeMonth": 232,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-22": 26,
+      "2025-08-21": 3
     }
   }
 ]
