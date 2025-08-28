@@ -129,19 +129,19 @@
     "url": "https://bursi.it",
     "icon": "https://icons.duckduckgo.com/ip3/bursi.it.ico",
     "slug": "bursi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1622,
-    "timeDay": 1092,
-    "timeWeek": 1249,
-    "timeMonth": 1410,
+    "timeDay": 1362,
+    "timeWeek": 1297,
+    "timeMonth": 1417,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 10
     }
   },
   {
