@@ -222,10 +222,10 @@
     "url": "https://www.dropper.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.dropper.ai.ico",
     "slug": "dropper-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1455,
@@ -233,7 +233,9 @@
     "timeWeek": 2281,
     "timeMonth": 2246,
     "timeYear": 1455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 1
+    }
   },
   {
     "name": "Dropper AI Dashboard",
@@ -412,18 +414,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.onelineservice.it.ico",
     "slug": "oneline-service",
     "status": "down",
-    "uptime": "98.74%",
+    "uptime": "98.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.83%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "98.74%",
+    "uptimeWeek": "68.72%",
+    "uptimeMonth": "92.80%",
+    "uptimeYear": "98.56%",
     "time": 818,
     "timeDay": 0,
     "timeWeek": 999,
     "timeMonth": 868,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-08-31": 306,
+      "2025-08-31": 720,
       "2025-08-30": 1440,
       "2025-08-29": 992,
       "2025-04-17": 31
@@ -596,7 +598,7 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 224,
-    "timeDay": 223,
+    "timeDay": 249,
     "timeWeek": 242,
     "timeMonth": 233,
     "timeYear": 224,
