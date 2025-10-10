@@ -6,9 +6,9 @@
     "slug": "4foodies",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1238,
     "timeDay": 834,
@@ -16,7 +16,7 @@
     "timeMonth": 1311,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2025-10-10": 5,
+      "2025-10-10": 18,
       "2025-04-07": 15
     }
   },
@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bursi.it.ico",
     "slug": "bursi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1564,
     "timeDay": 1318,
     "timeWeek": 1275,
     "timeMonth": 1338,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2025-10-10": 4
+      "2025-10-10": 18
     }
   },
   {
@@ -206,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/consorziovado.com.ico",
     "slug": "consorzio-vado",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1108,
     "timeDay": 9926,
     "timeWeek": 2965,
     "timeMonth": 1392,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-10-10": 3,
+      "2025-10-10": 17,
       "2025-08-06": 66
     }
   },
@@ -334,19 +334,19 @@
     "url": "https://hexaquotes.avrean.net",
     "icon": "https://icons.duckduckgo.com/ip3/hexaquotes.avrean.net.ico",
     "slug": "hexaquotes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 725,
-    "timeDay": 10163,
-    "timeWeek": 3036,
-    "timeMonth": 1257,
-    "timeYear": 725,
+    "time": 747,
+    "timeDay": 8726,
+    "timeWeek": 3349,
+    "timeMonth": 1392,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-10-10": 3,
+      "2025-10-10": 15,
       "2025-08-06": 64,
       "2025-04-29": 19
     }
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-10-10": 639,
+      "2025-10-10": 653,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -560,19 +560,19 @@
     "url": "https://www.rekupero.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.rekupero.it.ico",
     "slug": "rekupero",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 10005,
-    "timeWeek": 2842,
-    "timeMonth": 1230,
+    "timeDay": 6850,
+    "timeWeek": 2586,
+    "timeMonth": 1209,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-10-10": 2
+      "2025-10-10": 14
     }
   },
   {
@@ -598,19 +598,19 @@
     "url": "https://www.arrampicata.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.arrampicata.com.ico",
     "slug": "sasp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 9837,
-    "timeWeek": 2767,
-    "timeMonth": 1038,
+    "timeDay": 6701,
+    "timeWeek": 2507,
+    "timeMonth": 1019,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2025-10-10": 1
+      "2025-10-10": 13
     }
   },
   {
