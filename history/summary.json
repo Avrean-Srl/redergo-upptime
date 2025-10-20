@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-10-20": 480,
+      "2025-10-20": 493,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -490,11 +490,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/orologiaeronautica.it.ico",
     "slug": "orologi-aeronautica",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 685,
     "timeDay": 527,
     "timeWeek": 385,
@@ -588,11 +588,11 @@
     "url": "https://riadk.com",
     "icon": "https://icons.duckduckgo.com/ip3/riadk.com.ico",
     "slug": "riadk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
     "timeDay": 293,
@@ -600,7 +600,7 @@
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-10-20": 7
+      "2025-10-20": 1
     }
   },
   {
