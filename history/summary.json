@@ -226,10 +226,10 @@
     "url": "https://www.dropper.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.dropper.ai.ico",
     "slug": "dropper-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1669,
@@ -237,7 +237,9 @@
     "timeWeek": 2192,
     "timeMonth": 2509,
     "timeYear": 1669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 1
+    }
   },
   {
     "name": "Dropper AI Dashboard",
@@ -246,9 +248,9 @@
     "slug": "dropper-ai-dashboard",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 689,
@@ -256,7 +258,7 @@
     "timeMonth": 615,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-10-27": 1
+      "2025-10-27": 12
     }
   },
   {
@@ -430,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-10-27": 838,
+      "2025-10-27": 850,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
