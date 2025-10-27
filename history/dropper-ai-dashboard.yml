@@ -1,7 +1,7 @@
 url: https://dashboard.dropper.ai/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-27T13:57:28.946Z
+status: up
+code: 200
+responseTime: 620
+lastUpdated: 2025-10-27T17:59:06.088Z
 startTime: 2025-03-18T08:42:10.033Z
 generator: Upptime <https://github.com/upptime/upptime>
