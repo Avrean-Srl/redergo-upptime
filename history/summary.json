@@ -184,19 +184,19 @@
     "url": "https://consorzioterna.it",
     "icon": "https://icons.duckduckgo.com/ip3/consorzioterna.it.ico",
     "slug": "consorzio-terna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 533,
-    "timeDay": 421,
-    "timeWeek": 423,
-    "timeMonth": 436,
-    "timeYear": 533,
+    "time": 531,
+    "timeDay": 352,
+    "timeWeek": 395,
+    "timeMonth": 427,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 1,
       "2025-04-17": 32,
       "2025-03-23": 35
     }
@@ -206,19 +206,19 @@
     "url": "https://consorziovado.com",
     "icon": "https://icons.duckduckgo.com/ip3/consorziovado.com.ico",
     "slug": "consorzio-vado",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1126,
-    "timeDay": 2867,
-    "timeWeek": 1338,
-    "timeMonth": 1379,
-    "timeYear": 1126,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 1123,
+    "timeDay": 2183,
+    "timeWeek": 1217,
+    "timeMonth": 1345,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-11-18": 13,
+      "2025-11-18": 1,
       "2025-10-10": 21,
       "2025-08-06": 66
     }
@@ -304,19 +304,19 @@
     "url": "https://galievr.it",
     "icon": "https://icons.duckduckgo.com/ip3/galievr.it.ico",
     "slug": "galievr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 573,
-    "timeWeek": 581,
-    "timeMonth": 834,
-    "timeYear": 691,
+    "time": 689,
+    "timeDay": 465,
+    "timeWeek": 537,
+    "timeMonth": 814,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 1
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "hexaquotes",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 740,
     "timeDay": 469,
@@ -354,7 +354,7 @@
     "timeMonth": 693,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 14,
       "2025-10-10": 15,
       "2025-08-06": 64,
       "2025-04-29": 19
@@ -437,7 +437,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-11-18": 714,
+      "2025-11-18": 720,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -610,9 +610,9 @@
     "slug": "rekupero",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 401,
@@ -620,7 +620,7 @@
     "timeMonth": 1041,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 14
     }
   },
   {
@@ -650,9 +650,9 @@
     "slug": "sasp",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 575,
     "timeDay": 319,
@@ -660,7 +660,7 @@
     "timeMonth": 1000,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 14
     }
   },
   {
@@ -670,9 +670,9 @@
     "slug": "top-gear-italia",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 757,
     "timeDay": 329,
@@ -680,7 +680,7 @@
     "timeMonth": 626,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 14,
       "2025-03-23": 34
     }
   },
