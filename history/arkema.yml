@@ -1,7 +1,7 @@
 url: https://www.arkema.it
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2026-01-08T23:07:46.070Z
+status: down
+code: 503
+responseTime: 640
+lastUpdated: 2026-01-09T20:23:46.105Z
 startTime: 2025-03-18T09:35:27.332Z
 generator: Upptime <https://github.com/upptime/upptime>
